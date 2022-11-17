@@ -46,7 +46,6 @@ strong {
 }
 
 p {
-  display: inline-block;
   overflow: hidden;
   text-align: justify;
 }
