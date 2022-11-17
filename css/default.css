@@ -37,7 +37,10 @@ main {
 }
 
 h1,
-h2 {
+h2,
+h3,
+h4,
+h5 {
   color: #aaa;
   font-weight: 100;
   margin: 0;
@@ -51,6 +54,10 @@ h1 {
 
 h2 {
   font-size: 3rem;
+}
+
+h3 {
+  font-size: 1.5rem;
 }
 
 @media screen and (max-width: 640px) {
@@ -79,4 +86,14 @@ h2 {
 .contacts a:hover {
   color: #888;
   text-decoration: none;
+}
+
+.whitepaper-link {
+  color: #aaa;
+  text-decoration: none;
+}
+
+.whitepaper-link:hover {
+  color: #888;
+  text-decoration: underline;
 }
