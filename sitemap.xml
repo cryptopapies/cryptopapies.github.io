@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://cryptopapies.io/</loc>
+    <lastmod>2022-11-19</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://cryptopapies.io/#/gallery</loc>
+    <lastmod>2022-11-19</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://cryptopapies.io/#/presskit</loc>
+    <lastmod>2022-11-19</lastmod>
+    <priority>0.30</priority>
+  </url>
+  <url>
+    <loc>https://cryptopapies.io/#/privacy</loc>
+    <lastmod>2022-11-19</lastmod>
+    <priority>0.30</priority>
+  </url>
+  <url>
+    <loc>https://cryptopapies.io/#/roadmap</loc>
+    <lastmod>2022-11-19</lastmod>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://cryptopapies.io/#/whitepaper</loc>
+    <lastmod>2022-11-19</lastmod>
+    <priority>0.50</priority>
+  </url>
+</urlset>
