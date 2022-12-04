@@ -11,6 +11,11 @@
     <priority>0.70</priority>
   </url>
   <url>
+    <loc>https://cryptopapies.io/#/giveaway</loc>
+    <lastmod>2022-12-04</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
     <loc>https://cryptopapies.io/#/presskit</loc>
     <lastmod>2022-11-19</lastmod>
     <priority>0.30</priority>
